@@ -1,4 +1,5 @@
 tap 'caskroom/cask'
+tap 'aykamko/tag-ag'
 
 brew 'gnu-sed'
 brew 'autoconf'
@@ -79,6 +80,7 @@ brew 'reattach-to-user-namespace'
 brew 'tmux'
 brew 'tig'
 brew 'peco'
+brew 'tag-ag'
 
 brew 'redis'
 brew 'mysql56'
