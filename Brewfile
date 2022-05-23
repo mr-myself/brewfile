@@ -80,7 +80,7 @@ brew 'reattach-to-user-namespace'
 brew 'tmux'
 brew 'tig'
 brew 'peco'
-brew 'tag-ag'
+brew 'tag-ag' # needs to run go install instead on M1
 
 brew 'redis'
 brew 'mysql56'
